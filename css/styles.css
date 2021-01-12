@@ -1,0 +1,12 @@
+.category-title {
+  background-color: beige;
+  padding: 20px;
+}
+.category-title:hover {
+  cursor: pointer;
+  background-color: rgba(84, 90, 88, 0.609);
+  transition: .2s;
+}
+.category-info {
+
+}
